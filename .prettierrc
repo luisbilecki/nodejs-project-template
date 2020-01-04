@@ -1,11 +1,10 @@
 {
-  "useTabs": false,
-  "printWidth": 80,
-  "tabWidth": 2,
-  "singleQuote": true,
-  "trailingComma": "es5",
-  "parser": "babel",
-  "semi": true,
-  "arrowParens": "avoid",
-  "rcVerbose": true
+	"useTabs": false,
+	"printWidth": 80,
+	"tabWidth": 2,
+	"singleQuote": true,
+	"trailingComma": "es5",
+	"semi": true,
+	"arrowParens": "avoid",
+	"rcVerbose": true
 }
