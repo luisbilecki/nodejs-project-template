@@ -9,7 +9,8 @@ This is boilerplate that contains ESLint, .nvmrc, Prettier, Jasmine, CircleCI, a
 
 ## How to Setup?
 
-- Clone this repository;
+- Clone or download the repository zip;
+- Change the URL of remote (git);
 - Update package.json with your project infos (e.g. author, name, version, license);
 - Run `yarn install`.
 
